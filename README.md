@@ -3,6 +3,8 @@
 
 ## Project objective
  The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Tableau. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
+## Dataset Used :-
+[Car Sales Data (1).xlsx](https://github.com/vikashkumar9955/DataAnalystPortfolioproject/files/13402780/Car.Sales.Data.1.xlsx)
 
 ## Problem Statement : KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
